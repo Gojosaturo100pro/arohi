@@ -72,7 +72,7 @@ def ____banner____():
 def main():
     ____banner____()
     print("[1] FILE CLONE [SOON] ")
-   print("[2] RANDOM CLONEv[SOON]");os.system("xdg-open https://t.me/+yTVgZU4cwB8zMDQ1")
+   print("[2] RANDOM CLONEv[SOON]")
     print("[3] START CLONE [OLD][WORK]")
 ##   print("[4] NAGAD HALF INFO[]SOON")
   #  print("[5] NAGAD BAN [SOON]")
