@@ -45,16 +45,20 @@ def clear():os.system('clear')
 def ____banner____():
     if "win" in sys.platform:os.system("cls")
     else:os.system("clear")
-    print(f"""a\033[1;91m
+    print(f"""\033[1;91m
     
 
-▗▄▖  ▄▄▄ ▄▄▄  ▐▌   ▄ 
-▐▌ ▐▌█   █   █ ▐▌   ▄ 
-▐▛▀▜▌█   ▀▄▄▄▀ ▐▛▀▚▖█ 
-▐▌ ▐▌          ▐▌ ▐▌█ 
-                      
-                      
-                                                                                                                                                             
+
+   ▄████████    ▄████████  ▄██████▄     ▄█    █▄     ▄█  
+  ███    ███   ███    ███ ███    ███   ███    ███   ███  
+  ███    ███   ███    ███ ███    ███   ███    ███   ███▌ 
+  ███    ███  ▄███▄▄▄▄██▀ ███    ███  ▄███▄▄▄▄███▄▄ ███▌ 
+▀███████████ ▀▀███▀▀▀▀▀   ███    ███ ▀▀███▀▀▀▀███▀  ███▌ 
+  ███    ███ ▀███████████ ███    ███   ███    ███   ███  
+  ███    ███   ███    ███ ███    ███   ███    ███   ███  
+  ███    █▀    ███    ███  ▀██████▀    ███    █▀    █▀   
+               ███    ███                                
+                                                                                                                                                                                                 
  \x1b[37;41m\t Arohi Update 13\x1b[0;m\n\n\x1b[1;37m                              
 \n---------------------------------
 \033[1;91m  AUTHOR   : Arohi
@@ -62,15 +66,15 @@ def ____banner____():
 \033[1;91m  WHATSAPP : +    X
 \033[1;91m  TOOLS    : \033[1;32m FREE \033[1;37m                         
 \033[1;91m  VERSION  :   \033[1;35m     2025                                                                            
-\033[1;93m\033[1;93m """)
+\033[1;93m\033[1;32m """)
     
 #______________MAIN DEF_______________#
 def main():
     ____banner____()
-    #print("[1] FILE CLONE [SOON] ")
-   # print("[2] RANDOM CLONEv[SOON]");os.system("xdg-open https://t.me/+yTVgZU4cwB8zMDQ1")
+    print("[1] FILE CLONE [SOON] ")
+   print("[2] RANDOM CLONEv[SOON]");os.system("xdg-open https://t.me/+yTVgZU4cwB8zMDQ1")
     print("[3] START CLONE [OLD][WORK]")
-#    print("[4] NAGAD HALF INFO[]SOON")
+##   print("[4] NAGAD HALF INFO[]SOON")
   #  print("[5] NAGAD BAN [SOON]")
     print("-------------------------------")
     select = input("SELECT OPTION : ")
@@ -111,7 +115,7 @@ def fuckMyxAXN(series):
         print("-------------------------------")
         for love in gen:
             ids = SEX + love
-            passlist = ["1234567", "12345678", "123456789"," 000000","1234567890"]
+            passlist = ["123456" , "1234567", "12345678", "123456789"," 000000","1234567890"]
             Fuck_xnxx.submit(Fucking_life, ids, passlist)
     sys.exit("\n-------------------------------")
     
